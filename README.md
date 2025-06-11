@@ -1,6 +1,6 @@
 # 🌐 Request Header Parser Microservice
 
-A Node.js + Express API that returns the client's IP address, preferred language, and software info by parsing request headers. This project fulfills the FreeCodeCamp “Request Header Parser Microservice” project requirements. :contentReference[oaicite:0]{index=0}
+A Node.js and Express.js API that returns your IP address, preferred language, and software (user-agent) info using the HTTP request headers. This project fulfills the FreeCodeCamp “Request Header Parser Microservice” requirement from the Back End Development and APIs certification.
 
 ---
 
